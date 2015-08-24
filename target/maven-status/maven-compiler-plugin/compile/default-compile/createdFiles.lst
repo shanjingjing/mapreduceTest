@@ -1,0 +1,4 @@
+mediav\com\mapreduceTest\CookieEventCountByEventType$CookieEventMapper.class
+mediav\com\mapreduceTest\CookieEventCountByEventType.class
+mediav\com\mapreduceTest\CookieEventCountByEventType$EVENTTYPE.class
+mediav\com\mapreduceTest\CookieEventCountByEventType$IntSumReducer.class
